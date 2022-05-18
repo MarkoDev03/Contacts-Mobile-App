@@ -1,0 +1,18 @@
+ {
+    "contactType": "person",
+    "firstName": "Bozidar",
+    "id": "670",
+    "imageAvailable": false,
+    "lastName": "Trifovic",
+    "lookupKey": "3974i290b0d4009274b1c.464i6.1450iSkype_6",
+    "name": "Bozidar Trifovic",
+    "phoneNumbers":  [
+       {
+        "id": "12",
+        "isPrimary": 0,
+        "label": "mobile",
+        "number": "061 6382211",
+        "type": "2"
+      }
+    ]
+}

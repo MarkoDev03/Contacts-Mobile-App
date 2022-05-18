@@ -1,10 +1,19 @@
 {
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
     "expo": "^44.0.0",
+    "expo-contacts": "~10.1.0",
+    "expo-navigation-bar": "~1.1.1",
+    "expo-status-bar": "^1.2.0",
+    "expo-updates": "~0.11.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-navigation-bar-color": "^2.0.1",
+    "react-native-vector-icons": "^9.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

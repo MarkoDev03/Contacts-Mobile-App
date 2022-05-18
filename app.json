@@ -1,0 +1,38 @@
+{
+    "expo": {
+        "name": "Contacts",
+        "slug": "contacts",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/start.png",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#f0f0f0"
+        },
+        "updates": {
+            "fallbackToCacheTimeout":0
+        },
+        "assetBundlePatterns": [
+           "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "userInterfaceStyle": "automatic"
+        },
+       
+        "android": {
+            "package": "tothepointocde.contacts",
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/start.png",
+                "backgroundColor": "#f0f0f0"
+            },
+           
+            "userInterfaceStyle": "automatic"
+        },
+        "web": {
+            "favicon": "./assets/images/start.png"
+        }
+    }
+}
